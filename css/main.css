@@ -248,6 +248,12 @@ header .social-icon li a
 	height: 60px;
 	font-size: 20px;
 }
+
+#event-qrcode {
+	text-align: right;
+	margin-top: 130px;
+}
+
 /* end home */
 
 /* start about */
@@ -538,6 +544,10 @@ header .social-icon li a
 		        transition: all 0.4s ease-in-out;
 	}
 
+	#event-qrcode {
+		text-align: center;
+		margin-top: 40px;
+	}
 }
 /* end 360 media quires */
 
@@ -577,6 +587,7 @@ header .social-icon li a
 		padding-bottom: 5px;
 		line-height: 35px;
 	}
+
 }
 /* end 768 media quires */
 
@@ -596,6 +607,5 @@ header .social-icon li a
 		{
 			font-size: 32px;
 		}
-
 }
 /* end 360 media quires */
