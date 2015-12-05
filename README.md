@@ -4,6 +4,10 @@ This is the repository to the site code.
 # Site url
 http://codigo.porumacausa.pt/
 
+# Discord general chat channel
+https://discordapp.com/channels/122672835494674432/122672835494674432
+(invite link: https://discord.gg/0gU0CNS8df7cevL2)
+
 # Facebook
 https://www.facebook.com/codigoporumacausa
 
